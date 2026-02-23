@@ -1,0 +1,12 @@
+[2026-02-22 22:48:15] PING 5
+Ping failed: Command timed out after 10 seconds.----------------------------------------
+[2026-02-22 22:48:25] PING google.com
+PING google.com (142.250.137.113): 56 data bytes
+64 bytes from 142.250.137.113: icmp_seq=0 ttl=110 time=8.379 ms
+64 bytes from 142.250.137.113: icmp_seq=1 ttl=110 time=7.790 ms
+64 bytes from 142.250.137.113: icmp_seq=2 ttl=110 time=16.188 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 7.790/10.786/16.188/3.828 ms
+----------------------------------------
