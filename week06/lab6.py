@@ -1,7 +1,7 @@
 # ============================================================
 #  WEEK 06 LAB: NETWORK DIAGNOSTIC LOGGER
 #  COMP2152
-#  [Your Name Here]
+#  Akinwunmi Eludoyin
 # ============================================================
 #
 #  This program runs network commands (ping, nslookup, ifconfig),
@@ -507,4 +507,4 @@ def main():
 # ============================================================
 # After completing Tasks 1-3, uncomment the line below to run:
 main()
-# ============================================================
+# ===========================================================
